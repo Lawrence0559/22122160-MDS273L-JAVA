@@ -1,0 +1,3 @@
+sunny,22122160,A
+nitish,22122127,B
+lawrence ,22154521,A
